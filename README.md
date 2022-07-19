@@ -1,1 +1,1 @@
-This is my veeeeery first repoossssss koitory
+This is my veeeeery first repository
