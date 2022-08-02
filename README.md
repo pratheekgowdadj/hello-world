@@ -1,1 +1,1 @@
-This is my  practice repositoryyy of data science
+This is my  practice repositoryyy of ai and ml
