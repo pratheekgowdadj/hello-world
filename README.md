@@ -1,1 +1,1 @@
-This is my  practice repositoryyy of ai and ml
+This is my  practice repositoryyy of artificial intel
