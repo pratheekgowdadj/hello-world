@@ -1,2 +1,2 @@
 This is my  practice repositoryyy of artificial intel
-Ligence and
+Ligence and machine learning
