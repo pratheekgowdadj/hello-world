@@ -1,2 +1,1 @@
-This is my  practice repositoryyy of artificial intel
-Ligence and machine learning
+Hello this is my maiden repository
