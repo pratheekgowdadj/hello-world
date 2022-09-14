@@ -1,2 +1,2 @@
 # Hello Pratheek here!!
-# Come join me on this journey.
+# Welcome to my GitHub.
