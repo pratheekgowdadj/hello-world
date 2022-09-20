@@ -1,3 +1,4 @@
 # Hello Pratheek here!!
 # Welcome to my first repo.
-# Have a peek as in the queue
+# I'm currently working on learning mern stack
+
